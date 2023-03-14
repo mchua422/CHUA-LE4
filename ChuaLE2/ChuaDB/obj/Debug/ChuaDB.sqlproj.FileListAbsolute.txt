@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Downloads\ChuaLE2\ChuaLE2\ChuaDB\bin\Debug\ChuaDB.dacpac
+C:\Users\ADMIN\Downloads\ChuaLE2\ChuaLE2\ChuaDB\bin\Debug\ChuaDB.dll
+C:\Users\ADMIN\Downloads\ChuaLE2\ChuaLE2\ChuaDB\bin\Debug\ChuaDB.pdb
+C:\Users\ADMIN\Downloads\ChuaLE2\ChuaLE2\ChuaDB\obj\Debug\ChuaDB.sqlproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\ChuaLE2\ChuaLE2\ChuaDB\obj\Debug\ChuaDB.dll
+C:\Users\ADMIN\Downloads\ChuaLE2\ChuaLE2\ChuaDB\obj\Debug\ChuaDB.pdb
+C:\Users\ADMIN\Downloads\ChuaLE2\ChuaLE2\ChuaDB\obj\Debug\Model.xml
+C:\Users\ADMIN\Downloads\ChuaLE2\ChuaLE2\ChuaDB\obj\Debug\refactor.xml
+C:\Users\ADMIN\Downloads\ChuaLE2\ChuaLE2\ChuaDB\obj\Debug\postdeploy.sql
+C:\Users\ADMIN\Downloads\ChuaLE2\ChuaLE2\ChuaDB\obj\Debug\predeploy.sql
